@@ -6,7 +6,7 @@
 	--black: green;
 	--process: blue;
 }
-*{margin:0px; padding:0px; box-sizing: border-box; font-family: system-ui;}
+*{margin:0px; padding:0px; box-sizing: border-box; font-family:cursive;}
 body{background: var(--background);}
 .col-div-3{width: 25%; float: left;}
 .col-div-7{width: 75%; float: left;}
@@ -20,7 +20,7 @@ body{background: var(--background);}
 	box-shadow:5px 5px 5px 5px #54585d33;
 }
 .left-box{width: 45%; float: left; height: 100px;}
-.right-box{width: 55%; float: left; background-color:pink; height: 755px;
+.right-box{width: 55%; float: left; background-color:pink; height: 760px;
 	margin: 20px 0px; border-radius: 20px 0px 0px 20px; padding:5px 20px;
 	box-shadow: -7px 2px 15px 2px #54585d52;}
 .profile{width: 145px; height: 175px; border: 3px solid var(--white); 
