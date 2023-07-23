@@ -15,12 +15,12 @@ body{background: var(--background);}
 .col-div-6{width: 50%; float: left; position: relative;}
 .clearfix{clear: both;}
 .resume-main{width: 700px; height: 800px; 
-	background: linear-gradient(var(--one), var(--two));
+	background: linear-gradient(var(--one), green,blue);
 	margin: 50px auto;
 	box-shadow:5px 5px 5px 5px #54585d33;
 }
 .left-box{width: 45%; float: left; height: 100px;}
-.right-box{width: 55%; float: left; background-color: var(--white); height: 755px;
+.right-box{width: 55%; float: left; background-color:rgb(209, 230, 92); height: 755px;
 	margin: 20px 0px; border-radius: 20px 0px 0px 20px; padding:5px 20px;
 	box-shadow: -7px 2px 15px 2px #54585d52;}
 .profile{width: 145px; height: 175px; border: 3px solid var(--white); 
