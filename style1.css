@@ -1,10 +1,10 @@
 :root{
 	--background: #c3c0ba;
 	--white: #fff;
-	--one: #c3266f;
+	--one: #0d19b6;
 	--two: #743578;
-	--black: #54585d;
-	--process: #a5a5a5;
+	--black: #545d56;
+	--process: #c55656;
 }
 *{margin:0px; padding:0px; box-sizing: border-box; font-family: system-ui;}
 body{background: var(--background);}
