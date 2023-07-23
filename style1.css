@@ -6,7 +6,7 @@
 	--black: #545d56;
 	--process: #c55656;
 }
-*{margin:0px; padding:0px; box-sizing: border-box; font-family: system-ui;}
+*{margin:0px; padding:0px; box-sizing: border-box; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 body{background: var(--background);}
 .col-div-3{width: 25%; float: left;}
 .col-div-7{width: 75%; float: left;}
